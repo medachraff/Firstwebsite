@@ -5,20 +5,11 @@ import { projects } from '../utils/projectsData';
 
 const Home = () => (
   <div className="home">
-    <h1>What Can I Deploy to Static Apps?</h1>
-    <div className="card-grid">
-      {projects.map((project) => {
-        const Icon = projectIcons[project.id];
-        return (
-          <SmallCard
-            key={project.id}
-            Icon={Icon}
-            title={project.name}
-            slug={project.slug}
-          />
-        );
-      })}
-    </div>
+    <h1>Hello i am a website !</h1>
+    <h1>Dedicace l gassara !</h1>
+    <h1>w a7la bac info </h1>
+
+    <div className="card-grid"></div>
   </div>
 );
 
