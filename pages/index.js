@@ -8,7 +8,8 @@ const Home = () => (
     <h1>Hello i am a website !</h1>
     <h1>Dedicace l gassara !</h1>
     <h1>w a7la bac info hhh..aaa</h1>
-    <h1>je suis achraf ! student</h1>
+    <h1>je suis achraf ! student </h1>
+    <h1>je suis achraf ! student 2 </h1>
 
 
     <div className="card-grid"></div>
